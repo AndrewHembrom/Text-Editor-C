@@ -1,0 +1,3 @@
+Hello Man from text file
+
+Brdr at line 3
